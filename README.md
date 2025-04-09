@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Netro Systems](https://github.com/netrosystems)
 
-- 💬 Ask me about **Laravel, Vue, PHP**
+- 💬 Ask me about **Laravel, Vue, ReactJs, PHP, SQL**
 
 - 📫 How to reach me **jeet25890@gmail.com**
 
