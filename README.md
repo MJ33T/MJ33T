@@ -55,21 +55,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mj33t&layout=compact&theme=radical" alt="Top Langs" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mj33t&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mj33t&theme=radical" alt="GitHub Streak" />
-</p>
-
----
 
 ### 🧠 Fun Fact
 
