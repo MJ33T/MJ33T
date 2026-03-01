@@ -5,11 +5,11 @@
   <img src="https://komarev.com/ghpvc/?username=mj33t&label=Profile%20views&color=0e75b6&style=flat" alt="mj33t" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=mj33t&theme=onestar&no-frame=true&no-bg=true&margin-w=4" alt="mj33t" />
   </a>
-</p>
+</p> -->
 
 ---
 
