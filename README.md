@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently working on **[Netro Systems](https://netrosystems.com)**
 - 🌱 I’m always learning **AI/ML, DevOps, and scalable backend systems**
-- 💬 Ask me about **Laravel, Vue, ReactJs, PHP, SQL, Docker, AWS**
+- 💬 Ask me about **Laravel, NodeJs, ExpressJs, ReactJs, Vue, PHP, SQL, Docker, AWS**
 - 📫 How to reach me: **jeet25890@gmail.com**
 - 🌐 Portfolio: [mj33t.me](https://mj33t.me)
 
@@ -42,6 +42,7 @@
   <!-- add icons here like you've done -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg" alt="laravel" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40" />
