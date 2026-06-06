@@ -19,7 +19,7 @@
 - 🌱 I’m always learning **AI/ML, DevOps, and scalable backend systems**
 - 💬 Ask me about **Laravel, NodeJs, ExpressJs, ReactJs, Vue, PHP, SQL, Docker, AWS**
 - 📫 How to reach me: **jeet25890@gmail.com**
-- 🌐 Portfolio: [mj33t.me](https://mj33t.dev)
+- 🌐 Portfolio: [mj33t.dev](https://mj33t.dev)
 
 ---
 
